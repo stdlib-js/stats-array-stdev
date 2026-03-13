@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-13)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`db2c323`](https://github.com/stdlib-js/stdlib/commit/db2c3239074dab803cc302baa478c033ef4a1e3b) - **bench:** refactor to use string interpolation in `stats/array/stdev` [(#10792)](https://github.com/stdlib-js/stdlib/pull/10792) _(by Aniket Sonawane, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aniket Sonawane
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
