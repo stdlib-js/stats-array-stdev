@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-13)
+## Unreleased (2026-05-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6713f62`](https://github.com/stdlib-js/stdlib/commit/6713f62064d52fe04ab65d773448a5882ff295ed) - **docs:** fix stale plural-function wording in `stats/array/stdev` [(#12325)](https://github.com/stdlib-js/stdlib/pull/12325) _(by Philipp Burckhardt)_
 -   [`fd45d7b`](https://github.com/stdlib-js/stdlib/commit/fd45d7bc9b9f269802566772fd992b24df0725e7) - **docs:** align JSDoc throws ordering across `stats/array` outliers [(#11838)](https://github.com/stdlib-js/stdlib/pull/11838) _(by Philipp Burckhardt)_
 -   [`db2c323`](https://github.com/stdlib-js/stdlib/commit/db2c3239074dab803cc302baa478c033ef4a1e3b) - **bench:** refactor to use string interpolation in `stats/array/stdev` [(#10792)](https://github.com/stdlib-js/stdlib/pull/10792) _(by Aniket Sonawane, Athan Reines)_
 
